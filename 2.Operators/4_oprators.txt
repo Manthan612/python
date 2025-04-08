@@ -1,0 +1,20 @@
+""""
+operators 
+oprator = +,-,*,/
+operands = values or variables
+
+python rule *bodmas*
+pemdas
+p()
+e exponant (**)
+md(*/)
+as(+-)
+"""
+"""
+arith - math cal
+comparison - compare val
+logical - combine or modify boolean expressions
+assignment - assign val
+identity - object memory
+membership - value exist in sequences
+"""
