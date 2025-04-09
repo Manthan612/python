@@ -1,0 +1,4 @@
+1- strings are immutable
+2- indexed started from 0 end with n-1
+positive & negative
+3- iterable
