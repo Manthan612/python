@@ -1,3 +1,9 @@
 1- immutable
 2- heterogeneus
 3- ()
+
+len()
+min()
+max()
+index()
+sorted()
