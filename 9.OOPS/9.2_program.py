@@ -1,4 +1,4 @@
-class Car:
+class Car():
     def set_details(self, brand, colour):
         self.brand = brand
         self.colour = colour
