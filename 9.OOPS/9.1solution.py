@@ -1,4 +1,6 @@
+#class
 class Characters():
+    # method
     def __init__(self, name, type, helth, power ):
         self.name = name
         self.type = type
@@ -7,7 +9,7 @@ class Characters():
     def attack(self):
         print(f'{self.name} perform {self.type} attacks with power: {self.power}'.title())
 
-
+# objects <- properties
 p1 = Characters('Barbarians','Ground', 70, 25) 
 p2 = Characters('Archers','Ground & Air', 60, 30)
 p3 = Characters('Goblins','Ground', 40, 40)
@@ -15,6 +17,7 @@ p4 = Characters('Giant','Ground', 150, 50)
 p5 = Characters('Balloons', 'Air', 120, 80)
 p6 = Characters('Wizard','Ground & Air', 90, 60)
 
+# object.methods()
 p1.attack()
 p2.attack()
 p3.attack()
