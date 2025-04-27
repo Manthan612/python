@@ -8,7 +8,7 @@ class Student:
         self.age = age
 
     def display_info(self):
-        print("\n----- Student Details -----")
+        print("\nStudent Details:")
         print(f"Unique UID     : {self.uid}")
         print(f"Student ID     : {self.stu_id}")
         print(f"Student Name   : {self.name}")

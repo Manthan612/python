@@ -1,0 +1,17 @@
+1-> compile time
+2-> run time
+3-> logical
+
+1-> compile time
+if 1=1
+    print('same')
+
+2-> run time
+print(2%0)
+
+3->logical error
+a=10
+b=20
+print(f'a+b:{a*b}')
+
+#by programmer he define multiplication in exchange of subtraction
